@@ -20,11 +20,11 @@ Este projeto propõe um protótipo de um sistema de monitoramento de segurança 
 
 O sistema utiliza módulos ESP-32 ou Arduino  para gerenciar diversos sensores e atuadores.
 
-###Sensores (Monitoramento)
+### Sensores (Monitoramento)
 
-###Atuadores (Ações de Emergência)
+### Atuadores (Ações de Emergência)
 
-###Conectividade e Visualização
+### Conectividade e Visualização
 
 
 
