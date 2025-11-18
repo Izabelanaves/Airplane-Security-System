@@ -22,7 +22,19 @@ O sistema utiliza módulos ESP-32 ou Arduino  para gerenciar diversos sensores e
 
 ### Sensores (Monitoramento)
 
+Temperatura: Mede a temperatura do ambiente ou de um objeto.
+
+Pressão: Mede a força exercida por um fluido (líquido ou gás) por unidade de área.
+
+Acelerômetro: Mede a aceleração e, em muitos casos, é usado para detectar inclinação, vibração e orientação.
+
 ### Atuadores (Ações de Emergência)
+
+LED (Diodo Emissor de Luz): Utilizado para sinalização visual de estado ou alertas.
+
+Buzzer: Utilizado para fornecer feedback sonoro ou emitir alarmes.
+
+Servo Motor: Utilizado para controle preciso de posição, permitindo a movimentação de mecanismos.
 
 ### Conectividade e Visualização
 
